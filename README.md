@@ -1,4 +1,4 @@
-# customer-churn-prediction
+# Customer-Churn-Prediction
 
 ## Problem Statement:
 • In telecom domain where the customer acquisition has higher cost than customer retention and where there is a rampant price war, it becomes
